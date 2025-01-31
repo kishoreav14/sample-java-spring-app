@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: kishoreav14/java
+        image: kishoreav/java
         ports:
         - containerPort: 8080
 ---
